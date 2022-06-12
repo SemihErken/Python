@@ -25,6 +25,6 @@ for a in liste:
     toplam = toplam + a**counter
 
 if (toplam == number):
-    print("Thats a Fucking Armstrong Number")
+    print("Thats a Armstrong Number")
 else:
-    print("Thats Not a Fucking Armstrong Number")
+    print("Thats Not an Armstrong Number")
